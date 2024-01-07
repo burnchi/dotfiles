@@ -1,0 +1,11 @@
+{
+  "extras": [
+    "lazyvim.plugins.extras.editor.symbols-outline",
+    "lazyvim.plugins.extras.formatting.prettier",
+    "lazyvim.plugins.extras.ui.alpha"
+  ],
+  "news": {
+    "NEWS.md": "2123"
+  },
+  "version": 2
+}
